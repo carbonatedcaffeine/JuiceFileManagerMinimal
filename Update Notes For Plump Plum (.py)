@@ -1,0 +1,26 @@
+ans = input('''
+Password=Juice Updates
+
+Password:''')
+if ans == 'Juice Updates':
+    print('''
+Update Notes for Plump Plum
+
+Going back to old system of SHELL ONLY due to button issues
+
+2 New buttons 13 and 14 13=Build Information 14=Extras
+
+Many Other Tiny Bug Fixes
+
+
+!!!Other Notes!!!
+
+Readme.text has been updated
+
+4.0 release of Juice File Manager Will be the first LTR (Long Term Release)
+
+New Websites are going to host/Promote Juice E.G I will make a Promotion on scratch (Testing if it's a good idea???) and other websites that come up in my head
+
+My GitHub Page is getting bigger
+
+New Project on Crouton Name? Juicy crouton files''')
