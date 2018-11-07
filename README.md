@@ -1,10 +1,10 @@
 # JuciceFileManagerMINIMAL
 
-# Stable: 3.1
-
 JuciceFileManagerMINIMAL is for linux severs and minimal linux
 
 To Install/Use you must first install python
+
+# Stable: 3.1
 
 # Update Notes: 3.1
 new loading sceen for modules
