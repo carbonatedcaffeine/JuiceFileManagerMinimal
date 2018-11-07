@@ -6,7 +6,10 @@ JuciceFileManagerMINIMAL is for linux severs and minimal linux
 
 To Install/Use you must first install python
 
-This program can be used for...
+# Update Notes: 3.1
+new loading sceen for modules
+
+# This program can be used for:
 
 --> For reading files
 
