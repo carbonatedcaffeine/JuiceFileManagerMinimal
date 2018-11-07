@@ -6,8 +6,6 @@ JuciceFileManagerMINIMAL is for linux severs and minimal linux
 
 To Install/Use you must first install python
 
-for the command line then you must run JFMML
-
 This program can be used for...
 
 --> For reading files
