@@ -12,7 +12,7 @@ print(' Done ')
 def Update():
     os.system("sudo apt-get update")
     os.system("sudo apt-get install wget")
-    os.system("wget https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMINIMAL/juicefilemanager3.5.py")
+    os.system("wget https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMINIMAL/juicefilemanager3.2.py")
     print('if not found no update')
 
 def Read():        #For reading files
@@ -129,7 +129,7 @@ def Information():
 
                               Detailed Build Information
 Made On:GNU/LINUX
-Date Created:22 september 2018
+Date Created:9 Nov 2018
 Thanks To:Python Fans
 ''')
 
@@ -143,12 +143,12 @@ Team Members:
 
 ->Ender_Night_Lord-chromebook (Owner)
 
-Version:3.0
+Version:3.1.1
 ''')
 run=1
 while(run==1):     #Running the program again
     os.system('cls')        #Used to clear the screen after running again the program
-    print('Juice File Manager 3.0')
+    print('Juice File Manager 3.1.1')
     dec=int(input('''1.Read a file
 2.Write in a File
 3.Append text in a File
