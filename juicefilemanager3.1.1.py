@@ -136,7 +136,7 @@ Thanks To:Python Fans
 def Extra():
     print('''                                         
 EXTRA
-*************************************
+=======================================
 Trusted Websites:GitHub
 Gmail/Email: camden.o.b@gmail
 Team Members:
