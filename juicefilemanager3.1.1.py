@@ -149,7 +149,9 @@ run=1
 while(run==1):     #Running the program again
     os.system('cls')        #Used to clear the screen after running again the program
     print('Juice File Manager 3.1.1')
-    dec=int(input('''1.Read a file
+    dec=int(input('''
+==================================
+1.Read a file
 2.Write in a File
 3.Append text in a File
 4.Delete a file
@@ -163,12 +165,10 @@ while(run==1):     #Running the program again
 12.Exit
 
 Other
-
+==================================
 13.Build Information
 14.Extras
 15.Update (USING TERMINAL)
-
-Operation Number:
 '''))
     if dec==1:
         Read()
