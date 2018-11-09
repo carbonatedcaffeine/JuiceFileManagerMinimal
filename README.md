@@ -9,6 +9,10 @@ To Install/Use you must first install python
 # Update Notes: 3.1.1
 tiny update
 
+# HUGE ANNOUNCEMENT!!!
+4.0 will be named:
+Draco Dragon Fruit
+
 # This program can be used for:
 
 --> For reading files
