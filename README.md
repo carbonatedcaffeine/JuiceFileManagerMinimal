@@ -1,4 +1,8 @@
 # JuciceFileManagerMinimal
+
+Most old versions will take in the update... 
+to upgrade to 3.2 find the upgrade number
+
 --> Latest Version: 3.0
 
 --> Latest Version Codename: Gooey Gooseberry
