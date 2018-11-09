@@ -1,17 +1,11 @@
-# JuciceFileManagerMINIMAL
+# JuciceFileManagerMinimal
+--> latest version: 3.1.2
 
-JuciceFileManagerMINIMAL is for linux severs and minimal linux
+--> latest beta Release: 3.2
 
-To Install/Use you must first install python
+--> Next Milestone Release: 3.5
 
-# Stable: 3.1.2
-
-# Update Notes: 3.1.2
-tiny update
-
-# HUGE ANNOUNCEMENT!!!
-4.0 will be named:
-Draco Dragon Fruit
+--> Next Milestone Release Codename: Kool Kiwi Fruit
 
 # This program can be used for:
 
