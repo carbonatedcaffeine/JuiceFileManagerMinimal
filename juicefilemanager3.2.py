@@ -127,10 +127,12 @@ def Openfile():
 def Information():
     print('''
 
-                              Detailed Build Information
+Detailed Build Information
+=======================================
 Made On:GNU/LINUX
 Date Created:9 Nov 2018
 Thanks To:Python Fans
+=======================================
 ''')
 
 def Extra():
@@ -143,12 +145,15 @@ Team Members:
 
 ->Ender_Night_Lord-chromebook (Owner)
 
-Version:3.1.2
+Version:3.2
+=======================================
 ''')
 run=1
 while(run==1):     #Running the program again
     os.system('cls')        #Used to clear the screen after running again the program
-    print('Juice File Manager 3.1.2')
+    print('''
+Juice File Manager 3.2
+=======================================''')
     dec=int(input('''1.Read a file
 2.Write in a File
 3.Append text in a File
