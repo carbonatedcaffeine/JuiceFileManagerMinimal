@@ -149,8 +149,7 @@ Version:3.2
 =======================================
 ''')
 run=1
-while(run==1):     #Running the program again
-    os.system('cls')        #Used to clear the screen after running again the program
+while(run==1):
     print('''
 Juice File Manager 3.2
 =======================================''')
