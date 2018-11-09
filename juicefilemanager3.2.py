@@ -168,13 +168,12 @@ Juice File Manager 3.2
 12.Exit
 
 Other
-
+=======================================
 13.Build Information
 14.Extras
 15.Update (USING TERMINAL)
 
-Operation Number:
-'''))
+#: '''))
     if dec==1:
         Read()
     if dec==2:
