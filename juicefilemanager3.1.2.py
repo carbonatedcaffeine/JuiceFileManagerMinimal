@@ -143,13 +143,14 @@ Team Members:
 
 ->Ender_Night_Lord-chromebook (Owner)
 
-Version:3.1.2
+Version:3.2
 ''')
 run=1
 while(run==1):     #Running the program again
     os.system('cls')        #Used to clear the screen after running again the program
-    print('Juice File Manager 3.1.2')
+    print('Juice File Manager 3.2')
     dec=int(input('''
+
 =======================================
 1.Read a file
 2.Write in a File
