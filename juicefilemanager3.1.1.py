@@ -136,19 +136,19 @@ Thanks To:Python Fans
 def Extra():
     print('''                                         
 EXTRA
-*************************************
+=======================================
 Trusted Websites:GitHub
 Gmail/Email: camden.o.b@gmail
 Team Members:
 
 ->Ender_Night_Lord-chromebook (Owner)
 
-Version:3.1.1
+Version:3.1.2
 ''')
 run=1
 while(run==1):     #Running the program again
     os.system('cls')        #Used to clear the screen after running again the program
-    print('Juice File Manager 3.1.1')
+    print('Juice File Manager 3.1.2')
     dec=int(input('''1.Read a file
 2.Write in a File
 3.Append text in a File
