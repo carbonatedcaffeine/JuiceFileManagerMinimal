@@ -3,9 +3,9 @@
 
 --> Latest Version Codename: Gooey Gooseberry
 
---> Latest Minor Update: 3.1.2
+--> Latest Minor Update: 3.2
 
---> Latest Beta Release: 3.2
+--> Latest Beta Release: None
 
 --> Next Milestone Release: 3.5
 
