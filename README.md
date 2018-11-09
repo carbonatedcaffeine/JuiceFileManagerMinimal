@@ -1,7 +1,7 @@
 # JuciceFileManagerMinimal
 
 Most old versions will take in the update... 
-to upgrade to 3.2 find the upgrade number
+to upgrade to 3.2 find update on the menu
 
 --> Latest Version: 3.0
 
