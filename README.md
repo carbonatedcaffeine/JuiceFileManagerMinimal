@@ -1,7 +1,9 @@
 # JuciceFileManagerMinimal
---> latest version: 3.1.2
+--> Latest Version: 3.1.2
 
---> latest beta Release: 3.2
+--> Latest Version Codename: Gooey Gooseberry
+
+--> Latest Beta Release: 3.2
 
 --> Next Milestone Release: 3.5
 
