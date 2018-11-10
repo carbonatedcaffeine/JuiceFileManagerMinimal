@@ -21,12 +21,16 @@ them straight from here.
 
 # Update Notes: 3.2.1
 
---> added webbrowser library
+--> Added Webbrowser Library
 
 : this new feature takes you to here
 to the JuiceFileManagerMinimal github page
 with your default web browser so you can get
 minor updates easier
+
+--> Added .pyc's To All Releases 
+
+: (Except For 1.0 and 2.0)
 
 # This program can be used for:
 
