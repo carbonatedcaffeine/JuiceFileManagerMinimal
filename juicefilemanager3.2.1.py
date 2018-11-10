@@ -7,7 +7,15 @@ time.sleep(2)
 import shutil
 print('(  <->   ) importing shutil')
 time.sleep(2)
+print('(   <->  ) importing webbrowser')
+import webbrowser
+time.sleep(2)
 print(' Done ')
+
+
+def OpenWeb():
+	webbrowser.open('https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal', new=2)
+
 
 def Update():
     os.system("sudo apt-get update")
@@ -130,7 +138,7 @@ def Information():
 Detailed Build Information
 =======================================
 Made On:GNU/LINUX
-Date Created:9 Nov 2018
+Date Created:11 Nov 2018
 Thanks To:Python Fans
 =======================================
 ''')
@@ -145,32 +153,33 @@ Team Members:
 
 ->Ender_Night_Lord-chromebook (Owner)
 
-Version:3.2
+Version:3.2.1
 =======================================
 ''')
 run=1
 while(run==1):
     print('''
-Juice File Manager 3.2
+Juice File Manager 3.2.1
 =======================================''')
     dec=int(input('''1.Read a file
-2.Write in a File
-3.Append text in a File
-4.Delete a file
-5.List Files in a directory
-6.Check file existence
-7.Move a file
-8.Copy a file
-9.Create a Directory
-10.Delete A Directory
-11.Open a program
-12.Exit
+2.  Write in a File
+3.  Append text in a File
+4.  Delete a file
+5.  List Files in a directory
+6.  Check file existence
+7.  Move a file
+8.  Copy a file
+9.  Create a Directory
+10. Delete A Directory
+11. Open a program
+12. Exit
 
 Other
 =======================================
-13.Build Information
-14.Extras
-15.Update (USING TERMINAL)
+13. Build Information
+14. Extras
+15. Update (USING TERMINAL)
+16. Go To JuiceFileManager Homepage
 
 #: '''))
     if dec==1:
@@ -203,8 +212,9 @@ Other
         Extra()
     if dec==15:
         Update()
+    if dec==16:
+		OpenWeb()    
         
-        
-    run=int(input("1.Run again \n2.Exit \nChoose the option number: \n"))
+    run=int(input("1.Run again \n2.Exit \n #: \n"))
     if run==2:
         exit()
