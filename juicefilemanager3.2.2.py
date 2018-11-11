@@ -213,7 +213,7 @@ Other
     if dec==15:
         Update()
     if dec==16:
-        OpenWeb
+        OpenWeb()
             
             
 	
@@ -221,3 +221,4 @@ Other
     run=int(input("1.Run again \n2.Exit \n #: \n"))
     if run==2:
         exit()
+
