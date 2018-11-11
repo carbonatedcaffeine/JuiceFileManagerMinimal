@@ -21,10 +21,11 @@ them straight from here.
 
 # Update Notes: 3.2.2
 
---> Fixed 3.2.1 bug
+--> Fixed 3.2.1 bug 
 : python thought the code has spaces
 therefore it wouldn't run
 
+--> Another Bug Fixed
 
 # This program can be used for:
 
