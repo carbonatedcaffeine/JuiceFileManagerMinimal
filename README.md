@@ -10,7 +10,7 @@ them straight from here.
 
 --> Latest Version Codename: Gooey Gooseberry
 
---> Latest Minor Update: 3.2.1
+--> Latest Minor Update: 3.2.2
 
 --> Latest Beta Release: None
 
@@ -19,18 +19,12 @@ them straight from here.
 --> Next Milestone Release Codename: Kool Kiwi Fruit
 
 
-# Update Notes: 3.2.1
+# Update Notes: 3.2.2
 
---> Added Webbrowser Library
+--> Fixed 3.2.1 bug
+: python thought the code has spaces
+therefore it wouldn't run
 
-: this new feature takes you to here
-to the JuiceFileManagerMinimal github page
-with your default web browser so you can get
-minor updates easier
-
---> Added .pyc's To All Releases 
-
-: (Except For 1.0 and 2.0)
 
 # This program can be used for:
 
