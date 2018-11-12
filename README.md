@@ -1,4 +1,7 @@
 # JuciceFileManagerMinimal
+a file manager made from just python
+code and made for linux minimal 
+
 
 All new 3.2, 3.3 and 3.4 releases
 will not update to minor updates they
