@@ -128,7 +128,7 @@ def Information():
 Detailed Build Information
 =======================================
 Made On:GNU/LINUX
-Date Created:12 Nov 2018
+Date Created:6 Dec 2018
 Thanks To:Python Fans
 =======================================
 ''')
@@ -141,15 +141,17 @@ Trusted Websites:GitHub
 Gmail/Email: camden.o.b@gmail
 Team Members:
 
-->Ender_Night_Lord-chromebook (Owner)
+-> Ender_Night_Lord-chromebook (Owner)
 
-Version:3.2.2
+-> GURU-OS-Creator
+
+Version:3.5
 =======================================
 ''')
 run=1
 while(run==1):
     print('''
-Juice File Manager 3.2.2
+Juice File Manager 3.5
 =======================================''')
     dec=int(input('''1.Read a file
 2.  Write in a File
