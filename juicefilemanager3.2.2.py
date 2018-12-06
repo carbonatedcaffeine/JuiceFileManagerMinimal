@@ -10,13 +10,14 @@ time.sleep(2)
 print('(   <->  ) importing webbrowser')
 import webbrowser
 time.sleep(2)
+print('(    <-> ) checking for updates')
+os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager4.0.py")
+time.sleep(2)
 print(' Done ')
 
 
 def OpenWeb():
 	webbrowser.open('https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal', new=2)
-
-
 def Update():
     os.system("sudo apt-get update")
     os.system("sudo apt-get install wget")
@@ -29,7 +30,6 @@ def Read():        #For reading files
     print(file.read()) 
     input('Press Enter...')  
     file.close() 
-
 
 def Write():    #For writing or creating files
     path=input("Enter the location of file to write or create:")
@@ -47,7 +47,6 @@ def Add():      # Adding text to a file
     file=open(path,"a")
     file.write('\n'+text)
 
-
 def Delete():          #Deleting a File
     path=input("Enter the location of file to be write or create:")
     if os.path.exists(path):      # checks if the file exists
@@ -57,8 +56,6 @@ def Delete():          #Deleting a File
     else:
         print('File Does\'nt exist')    #Is no file exist
 
-
-
 def Dirlist():      #Listing files in a directory
     path=input("Enter the Directory location to list:")
     sortlist=sorted(os.listdir(path))       #Sorting and listing files
@@ -66,7 +63,6 @@ def Dirlist():      #Listing files in a directory
     while(i<len(sortlist)):
         print(sortlist[i]+'\n')
         i+=1
-
 
 def Check():       #Checking file or directory presence
     fp=int(input('Check the presence of \n1.File \n2.Directry \n'))
@@ -85,8 +81,6 @@ def Check():       #Checking file or directory presence
         else:
             print('Directory Not Found')
 
-
-
 def Move():        #For moving or renameing file
     path1=input('Enter the location of File to move or rename:')
     mr=int(input('1.Rename \n2.Move \n'))
@@ -99,19 +93,16 @@ def Move():        #For moving or renameing file
         shutil.move(path1,path2)
         print('File moved')
 
-
 def Copy():       #For copying
     path1=input('Enter the location of File to copy or rename:')
     path2=input('Enter the location to copy:')
     shutil.copy(path1,path2)
     print('File copied')
 
-
 def Makedir():            #For creating directory
     path=input("Enter the directory name with location to make \neg. C:\\Hello\\Newdir \nWhere newdir is new directory:")
     os.makedirs(path) 
     print('Directory Created')
-
 
 def Removedir():             #For removing Directory
     path=input('Enter the location of Directory:')
@@ -123,7 +114,6 @@ def Removedir():             #For removing Directory
         print('Directory Deleted')
     if treedir==3:
         exit()
-
 
 def Openfile():
     path=input('Enter the location of Program:')
@@ -138,7 +128,7 @@ def Information():
 Detailed Build Information
 =======================================
 Made On:GNU/LINUX
-Date Created:12 Nov 2018
+Date Created:6 Dec 2018
 Thanks To:Python Fans
 =======================================
 ''')
@@ -151,15 +141,17 @@ Trusted Websites:GitHub
 Gmail/Email: camden.o.b@gmail
 Team Members:
 
-->Ender_Night_Lord-chromebook (Owner)
+-> Ender_Night_Lord-chromebook (Owner)
 
-Version:3.2.2
+-> GURU-OS-Creator
+
+Version:3.5
 =======================================
 ''')
 run=1
 while(run==1):
     print('''
-Juice File Manager 3.2.2
+Juice File Manager 3.5
 =======================================''')
     dec=int(input('''1.Read a file
 2.  Write in a File
