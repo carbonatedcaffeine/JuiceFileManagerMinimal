@@ -1,4 +1,7 @@
 # JuciceFileManagerMinimal
+
+### Update To 3.5 Now With 3.2.2 and 3.1!
+
 a file manager made from just python
 code and made for linux minimal 
 
@@ -9,26 +12,24 @@ will update to every next milestone update...
 so if you want to get the minor updates you must download
 them straight from here.
 
---> Latest Version: 3.0
+--> Latest Version: 3.5
 
---> Latest Version Codename: Gooey Gooseberry
+--> Latest Version Codename: Kool Kiwifruit
 
---> Latest Minor Update: 3.2.2
+--> Latest Minor Update: 3.5
 
 --> Latest Beta Release: None
 
---> Next Milestone Release: 3.5
+--> Next Milestone Release: 4.0
 
---> Next Milestone Release Codename: Kool Kiwi Fruit
+--> Next Milestone Release Codename: Draco Dragon Fruit
 
 
-# Update Notes: 3.2.2
+# Update Notes: 3.5
 
---> Fixed 3.2.1 bug 
-: python thought the code has spaces
-therefore it wouldn't run
+--> Added Auto Update At Loading Screen
 
---> Another Bug Fixed
+--> From 3.2.2 and 3.1 you can update to 3.5
 
 # This program can be used for:
 
