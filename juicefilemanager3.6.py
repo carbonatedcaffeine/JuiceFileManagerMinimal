@@ -130,7 +130,7 @@ def Information():
 Detailed Build Information
 =======================================
 Made On:GNU/LINUX
-Date Created:6 Dec 2018
+Date Created: 31/1/2019
 Thanks To:Python Fans
 =======================================
 ''')
@@ -147,13 +147,13 @@ Team Members:
 
 -> GURU-OS-Creator
 
-Version:3.5
+Version:3.6
 =======================================
 ''')
 run=1
 while(run==1):
     print('''
-Juice File Manager 3.5
+Juice File Manager 3.6
 =======================================''')
     dec=int(input('''1.Read a file
 2.  Write in a File
