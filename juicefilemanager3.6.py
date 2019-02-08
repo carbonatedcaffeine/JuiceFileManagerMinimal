@@ -15,6 +15,21 @@ os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/Juic
 time.sleep(2)
 print(' Done ')
 
+def Admin():
+	ans = input('''
+Juice File Manager 3.6: Admin Tools
+Introduction
+=======================================
+
+THESE COMMANDS CAN BREAK YOUR COMPUTER
+IF USED INCORRECTLY. TOOLS INCLUDE:
+
+* Partition Manager
+* Usb / SD Formater
+* Package Installer
+
+Would You Like To Proceed? (y/n) #: ''')
+
 
 def OpenWeb():
 	webbrowser.open('https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal', new=2)
