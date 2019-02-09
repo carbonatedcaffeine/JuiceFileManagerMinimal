@@ -3,6 +3,15 @@
 a file manager made from just python
 code and made for linux minimal 
 
+### Huge Milestone Update!!!
+4.0 will now have the options as individual files. 
+so if I need to update one of the options that will
+get updated. And note that InstallJuice.py is not finished
+and I'm working on it. To check out the progress check out
+the beta branch.
+
+: [BETA BRANCH](https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/tree/Juice-File-Manager-Beta-4.0)
+
 --> Latest Version: 3.5
 
 --> Latest Version Codename: Kool Kiwifruit
