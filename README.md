@@ -9,7 +9,7 @@ code and made for linux minimal
 
 --> Latest Minor Update: 3.6
 
---> Latest Beta Release: 4.0: https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/tree/Juice-File-Manager-Beta-4.0
+--> Latest Beta Release: 4.0: [Beta](https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/tree/Juice-File-Manager-Beta-4.0)
 
 --> Next Milestone Release: 4.0
 
