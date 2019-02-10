@@ -105,6 +105,6 @@ To?
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/RemoveDir.py -P ~/JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P ~/JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -P ~/JFM/Assets")
-        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager4.0-1.py -O ~/juicefilemanager4.0.py")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager4.0-4.py -O ~/juicefilemanager4.0.py")
     
     
