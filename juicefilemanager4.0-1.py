@@ -43,7 +43,7 @@ def Openfile():
     os.system("python3 ~/Downloads/JFM/Assets/OpenFile.py")
     
 def Information():
-    os.system("python3~/Downloads/JFM/Assets/Information.py")
+    os.system("python3 ~/Downloads/JFM/Assets/Information.py")
 
 run=1
 while(run==1):
