@@ -43,7 +43,7 @@ To?
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/assets/RemoveDir.py -P ~/Downloads/JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/assets/Update.py -P ~/Downloads/JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/assets/Write.py -P ~/Downloads/JFM/Assets")
-        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/juicefilemanager4.0.py -P ~/Downloads/")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/juicefilemanager4.0-1.py -O ~/Downloads/juicefilemanager4.0.py")
         
     if ans == '2':
         os.system("mkdir /JFM")
@@ -63,7 +63,7 @@ To?
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/assets/RemoveDir.py -P /JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/assets/Update.py -P /JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/assets/Write.py -P /JFM/Assets")
-        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/juicefilemanager4.0.py -P /")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/juicefilemanager4.0-2.py -O /juicefilemanager4.0.py")
         
     if ans == '3':
         os.system("mkdir /root/JFM")
@@ -83,7 +83,7 @@ To?
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/assets/RemoveDir.py -P /root/JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/assets/Update.py -P /root/JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/assets/Write.py -P /root/JFM/Assets")
-        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/juicefilemanager4.0.py -P /root/")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Juice-File-Manager-Beta-4.0/juicefilemanager4.0-3.py -O /root/juicefilemanager4.0.py")
         
     
     
