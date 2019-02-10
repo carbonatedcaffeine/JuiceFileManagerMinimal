@@ -45,6 +45,9 @@ def Openfile():
 def Information():
     os.system("python3 /root/JFM/Assets/Information.py")
 
+def Extra():
+    os.system("python3 /root/JFM/Assets/Extra.py")
+
 run=1
 while(run==1):
     print('''
