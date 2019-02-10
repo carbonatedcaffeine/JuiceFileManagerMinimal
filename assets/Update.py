@@ -20,13 +20,13 @@ Juice File Manager 4.0 Update
 
 what kind of install do you have?
 
-1. ~/Downloads
+1. ~/Downloads/JFM/
 
-2. /
+2. /JFM/
 
-3. /root
+3. /root/JFM/
 
-4. ~/
+4. ~/JFM/
 
 #: ''')
   if ans == '1':
@@ -118,6 +118,8 @@ what kind of install do you have?
 2. /
 
 3. /root
+
+4. ~/
 
 #: ''')
   if ans == '1':
