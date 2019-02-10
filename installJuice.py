@@ -44,7 +44,7 @@ To?
     os.system("wget https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/blob/Juice-File-Manager-Beta-4.0/assets/RemoveDir.py -P ~/Downloads/JFM/Assets")
     os.system("wget https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/blob/Juice-File-Manager-Beta-4.0/assets/Update.py -P ~/Downloads/JFM/Assets")
     os.system("wget https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/blob/Juice-File-Manager-Beta-4.0/assets/Write.py -P ~/Downloads/JFM/Assets")
-    
+    os.system("wget https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/blob/Juice-File-Manager-Beta-4.0/juicefilemanager4.0.py -P ~/Downloads/JFM/Assets")
     
     
     
