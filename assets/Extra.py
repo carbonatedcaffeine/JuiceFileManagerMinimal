@@ -6,6 +6,6 @@ Gmail/Email: camden.o.b@gmail
 Team Members:
 -> Ender_Night_Lord-chromebook (Owner)
 -> GURU-OS-Creator
-Version:3.6
+Version: Milestone 4.0
 =======================================
 ''')
