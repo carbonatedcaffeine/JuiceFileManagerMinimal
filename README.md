@@ -3,31 +3,29 @@
 a file manager made from just python
 code and made for linux minimal 
 
-### Huge Milestone Update!!!
-4.0 will now have the options as individual files. 
-so if I need to update one of the options that will
-get updated. And note that InstallJuice.py is not finished
-and I'm working on it. To check out the progress check out
-the beta branch.
+: [JuiceFileManager Installer](https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/blob/master/installJuice.py)
 
-: [BETA BRANCH](https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/tree/Juice-File-Manager-Beta-4.0)
+--> Latest Version: 4.0
 
---> Latest Version: 3.5
+--> Latest Version Codename: Draco Dragonfruit
 
---> Latest Version Codename: Kool Kiwifruit
-
---> Latest Minor Update: 3.6
+--> Latest Minor Update: NONE
 
 --> Latest Beta Release: 4.0: [Beta](https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/tree/Juice-File-Manager-Beta-4.0)
 
---> Next Milestone Release: 4.0
+--> Next Milestone Release: 4.5
 
---> Next Milestone Release Codename: Draco Dragon Fruit
+--> Next Milestone Release Codename: Blooper Blueberry 
 
+# Update Notes: 4.0
 
-# Update Notes: 3.6
+--> Options Are Now Individual Files! Bettter For Updates.
 
---> Lauches My New Website When Website Command Is Activated
+--> installJuice.py Will Install JuiceFileManager!
+
+--> juicefilemanager4.0-1, -2 and -3 are for branches... They are for different dirs... but are renamed in the installer.
+
+--> Update Module Will Be Updated To Update Modules One By One To Make Things Easy (This Will Also Update Your Update File)
 
 # This program can be used for:
 
