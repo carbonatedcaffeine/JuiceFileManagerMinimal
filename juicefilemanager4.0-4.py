@@ -13,25 +13,25 @@ def Read():
 	os.system("python3 ~/JFM/Assets/Read.py")
 	
 def Write():  
-	os.system("python3 ~/Downloads/JFM/Assets/Write.py")
+	os.system("python3 ~/JFM/Assets/Write.py")
     
 def Add():
-    os.system("python3 ~/Downloads/JFM/Assets/Add.py")
+    os.system("python3 ~/JFM/Assets/Add.py")
     
 def Delete():
-    os.system("python3 ~/Downloads/JFM/Assets/Delete.py")
+    os.system("python3 ~/JFM/Assets/Delete.py")
     
 def Dirlist():
-    os.system("python3 ~/Downloads/JFM/Assets/DirList.py")
+    os.system("python3 ~/JFM/Assets/DirList.py")
     
 def Check():
-    os.system("python3 ~/Downloads/JFM/Assets/Check.py")
+    os.system("python3 ~/JFM/Assets/Check.py")
     
 def Move():
-    os.system("python3 ~/Downloads/JFM/Assets/Move.py")
+    os.system("python3 ~/JFM/Assets/Move.py")
     
 def Copy():
-    os.system("python3 ~/Downloads/JFM/Assets/Copy.py")
+    os.system("python3 ~/JFM/Assets/Copy.py")
 
 def Makedir():
     os.system("python3 ~/JFM/Assets/MakeDir.py")
