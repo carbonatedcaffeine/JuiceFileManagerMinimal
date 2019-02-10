@@ -42,9 +42,8 @@ what kind of install do you have?
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/OpenWeb.py -P ~/Downloads/JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Read.py -P ~/Downloads/JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/RemoveDir.py -P ~/Downloads/JFM/Assets")
-    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P ~/Downloads/JFM/")
+    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P ~/Downloads/JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -P ~/Downloads/JFM/Assets")
-    os.system("cp ~/JFM/Update.py ~/Downloads/JFM/Assets")
     print('DONE')
     
   if ans == '2':
@@ -62,9 +61,8 @@ what kind of install do you have?
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/OpenWeb.py -P /JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Read.py -P /JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/RemoveDir.py -P /JFM/Assets")
-    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P /JFM/")
+    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P /JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -P /JFM/Assets")
-    os.system("cp /JFM/Update.py /JFM/Assets")
     print('DONE')
     
   if ans == '3':
@@ -82,9 +80,8 @@ what kind of install do you have?
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/OpenWeb.py -P /root/JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Read.py -P /root/JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/RemoveDir.py -P /root/JFM/Assets")
-    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P /root/JFM/")
+    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P /root/JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -P /root/JFM/Assets")
-    os.system("cp /root/JFM/Update.py /root/JFM/Assets")
     print('DONE')
 
 if ans == '2':
@@ -116,9 +113,8 @@ what kind of install do you have?
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/OpenWeb.py -P ~/Downloads/JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Read.py -P ~/Downloads/JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/RemoveDir.py -P ~/Downloads/JFM/Assets")
-    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P ~/Downloads/JFM/")
+    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P ~/Downloads/JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -P ~/Downloads/JFM/Assets")
-    os.system("cp ~/JFM/Update.py ~/Downloads/JFM/Assets")
     print('DONE')
     
   if ans == '2':
@@ -136,9 +132,8 @@ what kind of install do you have?
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/OpenWeb.py -P /JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Read.py -P /JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/RemoveDir.py -P /JFM/Assets")
-    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P /JFM/")
+    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P /JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -P /JFM/Assets")
-    os.system("cp /JFM/Update.py /JFM/Assets")
     print('DONE')
     
   if ans == '3':
@@ -156,9 +151,6 @@ what kind of install do you have?
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/OpenWeb.py -P /root/JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Read.py -P /root/JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/RemoveDir.py -P /root/JFM/Assets")
-    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P /root/JFM/")
+    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P /root/JFM/Assets")
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -P /root/JFM/Assets")
-    os.system("cp /root/JFM/Update.py /root/JFM/Assets")
     print('DONE')
-
-  
