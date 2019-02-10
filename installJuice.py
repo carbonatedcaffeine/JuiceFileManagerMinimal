@@ -24,6 +24,8 @@ To?
 
 3. Root User Folder (/root) (For Always Root Users)
 
+4. Home Folder (~/)
+
 #: ''')
     if ans == '1':
         os.system("mkdir ~/Downloads/JFM")
@@ -85,6 +87,24 @@ To?
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -P /root/JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager4.0-3.py -O /root/juicefilemanager4.0.py")
         
-    
+    if ans == '4':
+        os.system("mkdir ~/JFM")
+        os.system("mkdir ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Add.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Check.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Copy.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Delete.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/DirList.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Extra.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Information.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/MakeDir.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Move.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/OpenFile.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/OpenWeb.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Read.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/RemoveDir.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -P ~/JFM/Assets")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager4.0-1.py -O ~/juicefilemanager4.0.py")
     
     
