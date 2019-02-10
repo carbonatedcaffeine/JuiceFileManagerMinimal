@@ -1,48 +1,20 @@
-print('(<->     ) importing time')
 import time
-time.sleep(2)
-print('( <->    ) importing os')
 import os
-time.sleep(2)
 import shutil
-print('(  <->   ) importing shutil')
-time.sleep(2)
-print('(   <->  ) importing webbrowser')
 import webbrowser
-time.sleep(2)
-print('(    <-> ) checking for updates')
-os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager4.0.py")
-time.sleep(2)
-print(' Done ')
-
 
 def OpenWeb():
-	webbrowser.open('https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal', new=2)
-	webbrowser.open('https://endernightlord-chromebook.github.io/EnderNightLord-Web.io/', new=3)
+	os.system("python ~/Downloads/JFM/Assets/OpenWeb.py")
 	
 def Update():
-    os.system("sudo apt-get update")
-    os.system("sudo apt-get install wget")
-    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager3.5.py")
-    print('if not found no update')
-
-def Read():        #For reading files
-    path=input("Enter the location of file to read:")
-    file=open(path,"r")
-    print(file.read()) 
-    input('Press Enter...')  
-    file.close() 
-
-def Write():    #For writing or creating files
-    path=input("Enter the location of file to write or create:")
-    if os.path.isfile(path):
-        print('Rebuilding Existing file') #For existing file
-    else:
-        print('Creating new file') #For new file
-    text=input("Enter the text to write:")
-    file=open(path,"w")
-    file.write(text)
-
+	os.system("python ~/Downloads/JFM/Assets/Update.py") 
+		  
+def Read():
+	os.system("python ~/Downloads/JFM/Assets/Read.py")
+	
+def Write():  
+	#For writing or creating files
+    
 def Add():      # Adding text to a file
     path=input("Enter the file location:")
     text=input("Enter the text to write:")
