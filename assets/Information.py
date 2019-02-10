@@ -2,7 +2,7 @@ print('''
 Detailed Build Information
 =======================================
 Made On:GNU/LINUX
-Date Created: 31/1/2019
+Date Created: Sun, 10, Feb
 Thanks To:Python Fans
 =======================================
 ''')
