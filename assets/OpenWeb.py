@@ -18,6 +18,3 @@ if ans == '1':
 
 if ans == '2':
   webbrowser.open('https://endernightlord-chromebook.github.io/EnderNightLord-Web.io/', new=1)
-
-if ans == '3':
-  webbrowser.open('https://sites.google.com/view/juicefilemanager/home', new=1
