@@ -20,6 +20,8 @@ in juicefilemanager type `15` and go follow instructions...
 if an update is made it can take up to five minutes to be able to get the
 update
 
+### Update Information
+
 --> Latest Version: 4.0
 
 --> Latest Version Codename: Draco Dragonfruit
