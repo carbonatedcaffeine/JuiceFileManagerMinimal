@@ -1,4 +1,5 @@
 print('''
+=======================================
 Detailed Build Information
 =======================================
 Made On:GNU/LINUX
