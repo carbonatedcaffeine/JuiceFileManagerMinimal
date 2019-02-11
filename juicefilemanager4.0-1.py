@@ -51,9 +51,10 @@ def Extra():
 run=1
 while(run==1):
     print('''
+=======================================
 Juice File Manager 4.0
 =======================================''')
-    dec=int(input('''1.Read a file
+    dec=int(input(''' 1.Read a file
 2.  Write in a File
 3.  Append text in a File
 4.  Delete a file
@@ -66,6 +67,7 @@ Juice File Manager 4.0
 11. Open a program
 12. Exit
 
+=======================================
 Other
 =======================================
 13. Build Information
