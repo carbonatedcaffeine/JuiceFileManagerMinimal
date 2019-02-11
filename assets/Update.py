@@ -2,6 +2,7 @@ import os
 import shutil
 
 ans = input('''
+=======================================
 Juice File Manager 4.0 Update
 =======================================
 
@@ -15,6 +16,7 @@ if ans == '1':
   os.system("sudo apt-get update")
   os.system("sudo apt-get install wget")
   ans = input('''
+=======================================
 Juice File Manager 4.0 Update
 =======================================
 
