@@ -3,7 +3,22 @@
 a file manager made from just python
 code and made for linux minimal 
 
-: [JuiceFileManager Installer](https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/blob/master/installJuice.py)
+### How To Install
+
+1. Download [installJuice.py](https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/blob/master/installJuice.py)
+
+2. `python3 installJuice.py` And Follow Instructions
+
+3. to launch juicefilemanager type `python3 juicefilemanager4.0.py` (in the dir you installed into)
+
+#### Updating Modules
+
+in juicefilemanager type `15` and go follow instructions... 
+
+##### Notes On Updating!!! (Importent)
+
+if an update is made it can take up to five minutes to be able to get the
+update
 
 --> Latest Version: 4.0
 
@@ -17,7 +32,7 @@ code and made for linux minimal
 
 --> Next Milestone Release Codename: Blooper Blueberry 
 
-# Update Notes: 4.0
+### Update Notes: 4.0
 
 --> Options Are Now Individual Files! Bettter For Updates.
 
@@ -27,7 +42,7 @@ code and made for linux minimal
 
 --> Update Module Will Be Updated To Update Modules One By One To Make Things Easy (This Will Also Update Your Update File)
 
-# This program can be used for:
+### This program can be used for:
 
 --> For reading files
 
