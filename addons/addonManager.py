@@ -27,7 +27,7 @@ please wait till we import some
 packages from github...
 ''')
   os.system("mkdir ~/Downloads/JFM/Addons")
-  os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Addon_Manager_(Update)/addon_assets/AdminOptions.py -P ~/Downloads/JFM/Assets")
+  os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/AddonManager/addonAssets/AdminOptions.py -P ~/Downloads/JFM/Assets")
   ans = input('''
 ==============================
 JuiceFileManager Addon Manager
@@ -61,7 +61,7 @@ please wait till we import some
 packages from github...
 ''')
   os.system("mkdir /root/JFM/Addons")
-  os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Addon_Manager_(Update)/addon_assets/AdminOptions.py -P /root/JFM/Assets")
+  os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/AddonManager/addonAssets/AdminOptions.py -P /root/JFM/Assets")
   ans = input('''
 ==============================
 JuiceFileManager Addon Manager
@@ -94,7 +94,7 @@ please wait till we import some
 packages from github...
 ''')
   os.system("mkdir /JFM/Addons")
-  os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Addon_Manager_(Update)/addon_assets/AdminOptions.py -P /JFM/Assets")
+  os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/AddonManager/addonAssets/AdminOptions.py -P /JFM/Assets")
   ans = input('''
 ==============================
 JuiceFileManager Addon Manager
@@ -127,7 +127,7 @@ please wait till we import some
 packages from github...
 ''')
   os.system("mkdir ~/JFM/Addons")
-  os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/Addon_Manager_(Update)/addon_assets/AdminOptions.py -P ~/JFM/Assets")
+  os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/AddonManager/addonAssets/AdminOptions.py -P ~/JFM/Assets")
   ans = input('''
 ==============================
 JuiceFileManager Addon Manager
