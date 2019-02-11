@@ -1,7 +1,7 @@
 import os
 
 ans = input('''
-JuiceFileManager Installer (BETA)
+JuiceFileManager Installer
 #################################
 
 welcome to the juice file manager installer!
@@ -12,7 +12,7 @@ Proceed? (y/n) #: ''')
 
 if ans == 'y':
     ans = input('''
-JuiceFileManager Installer (BETA)
+JuiceFileManager Installer
 #################################
 
 Where Would You Like To Install
