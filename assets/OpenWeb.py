@@ -9,8 +9,6 @@ Which Website Would You Like To Go To?
 
 2. Enders Blog
 
-3. Juice Programming Page
-
 #: ''')
 
 if ans == '1':
