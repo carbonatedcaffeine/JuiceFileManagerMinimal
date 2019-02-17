@@ -17,7 +17,7 @@ in juicefilemanager type `15` and go follow instructions...
 
 ##### Notes On Updating!!! (Importent)
 
-if an update is made it can take up to five minutes to be able to get the
+if an update is made. it can take up to five minutes to be able to get the
 update
 
 ### Update Information
