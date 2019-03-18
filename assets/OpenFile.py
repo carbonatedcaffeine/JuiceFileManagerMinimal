@@ -1,7 +1,7 @@
 import os
 import shutil
 
-path=input('Enter the location of Program:')
+path=input('Enter Location of Program:')
 try:
     os.startfile(path)
 except:
