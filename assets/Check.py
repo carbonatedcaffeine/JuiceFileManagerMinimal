@@ -3,7 +3,7 @@ import shutil
 
 fp=int(input('Check the presence of \n1.File \n2.Directry \n'))
 if fp==1:
-    path=input("Enter the file location:")
+    path=input("Enter Location Of File:")
     os.path.isfile(path)
     if os.path.isfile(path)==True:
         print('File Found')
