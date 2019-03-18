@@ -1,7 +1,7 @@
 import os
 import shutil
 
-path=input('Enter the location of Directory:')
+path=input('Enter Location of Directory:')
 treedir=int(input('1.Deleted Directory \n2.Delete Directory Tree \n3.Exit \n'))
 if treedir==1:
     os.rmdir(path)
