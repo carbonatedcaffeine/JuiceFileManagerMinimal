@@ -1,7 +1,7 @@
 import os
 import shutil
 
-path=input("Enter the location of file to write or create:")
+path=input("Enter Location Of File to write or create:")
 if os.path.isfile(path):
     print('Rebuilding Existing file') #For existing file
 else:
