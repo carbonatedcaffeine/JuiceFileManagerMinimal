@@ -17,8 +17,7 @@ in juicefilemanager type `15` and go follow instructions...
 
 ##### Notes On Updating!!! (Importent)
 
-if an update is made. it can take up to five minutes to be able to get the
-update
+if an update on github is made. It may take up to 5 minutes to the update to sync into github. So an update may not be installed instantly.
 
 ### Update Information
 
