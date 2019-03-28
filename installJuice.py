@@ -12,6 +12,8 @@ JFM.
 Proceed? (y/n) #: ''')
 
 if ans == 'y':
+    os.system("sudo apt update")
+    os.system("sudo apt -y install xterm")
     ans = input('''
 JuiceFileManager Installer
 #################################
