@@ -63,6 +63,9 @@ def Information():
 def Extra():
     os.system("python3 ~/JFM/Assets/Extra.py")
 
+def ShowReadme():
+	os.system("pyhton3 ~/JFM/Assets/ShowReadme.py")
+
 run=1
 while(run==1):
     print('''
@@ -89,6 +92,7 @@ Other
 14. Extras
 15. Update (USING TERMINAL)
 16. Go To JuiceFileManager Homepage
+17. Show Readme
 #: '''))
     if dec==1:
         Read()
@@ -122,6 +126,8 @@ Other
         Update()
     if dec==16:
         OpenWeb()
+	if dec==17:
+		ShowReadme()
 
 
 

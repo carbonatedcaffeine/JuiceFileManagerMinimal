@@ -63,6 +63,9 @@ def Information():
 def Extra():
     os.system("python3 /root/JFM/Assets/Extra.py")
 
+def ShowReadme():
+	os.system("pyhton3 /root/JFM/Assets/ShowReadme.py")
+
 run=1
 while(run==1):
     print('''

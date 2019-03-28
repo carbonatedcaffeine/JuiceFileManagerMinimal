@@ -65,6 +65,7 @@ To?
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -q -P ~/Downloads/JFM/Assets")
         print('[              <-> ]')
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager4.0-1.py -q -O ~/Downloads/juicefilemanager4.0.py")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/ShowReadme.py -q -P ~/Downloads/JFM/Assets")
 
     # Downloads The Assets For JFM In The Dir (/)
     if ans == '2':
@@ -103,7 +104,7 @@ To?
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -q -P /JFM/Assets")
         print('[              <-> ]')
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager4.0-2.py -q -O /juicefilemanager4.0.py")
-
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/ShowReadme.py -q -P /JFM/Assets")
     # Downloads The Assets For JFM In The Dir (/root)
     if ans == '3':
         os.system("mkdir /root/JFM")
@@ -141,6 +142,7 @@ To?
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -q -P /root/JFM/Assets")
         print('[              <-> ]')
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager4.0-3.py -q -O /root/juicefilemanager4.0.py")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/ShowReadme.py -q -P /root/JFM/Assets")
 
     # Downloads The Assets For JFM In The Dir (~/)
     if ans == '4':
@@ -179,3 +181,4 @@ To?
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -q -P ~/JFM/Assets")
         print('[              <-> ]')
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager4.0-4.py -q -O ~/juicefilemanager4.0.py")
+        os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/ShowReadme.py -q -P ~/JFM/Assets")
