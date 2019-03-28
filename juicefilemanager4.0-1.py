@@ -62,10 +62,6 @@ def Information():
 # Imports the extra asset to show some extras
 def Extra():
     os.system("python3 ~/Downloads/JFM/Assets/Extra.py")
-
-def ShowReadme():
-    os.system("pyhton3 ~/Downloads/JFM/Assets/ShowReadme.py")
-
 run=1
 while(run==1):
     print('''
@@ -126,8 +122,6 @@ Other
         Update()
     if dec==16:
         OpenWeb()
-    if dec==17:
-	ShowReadme()
 
 
 
