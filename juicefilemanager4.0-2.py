@@ -9,7 +9,7 @@ def OpenWeb():
 
 # Imports the update asset to update all the other assets
 def Update():
-	os.system("python3 /JFM/Assets/Update.py")
+	os.system("xterm -e python3 /JFM/Assets/Update.py")
 
 # Imports the read asset to read files
 def Read():
