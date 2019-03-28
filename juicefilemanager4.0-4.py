@@ -88,7 +88,6 @@ Other
 14. Extras
 15. Update (USING TERMINAL)
 16. Go To JuiceFileManager Homepage
-17. Show Readme
 #: '''))
     if dec==1:
         Read()
