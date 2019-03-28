@@ -58,6 +58,7 @@ what kind of install do you have?
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -q -P ~/Downloads/JFM/Assets")
     print('[              <-> ]')
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -q -P ~/Downloads/JFM/Assets")
+    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/ShowReadme.py -q -P ~/Downloads/JFM/Assets")
     print('DONE')
     
   if ans == '2':
@@ -92,6 +93,7 @@ what kind of install do you have?
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -q -P /JFM/Assets")
     print('[              <-> ]')
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -q -P /JFM/Assets")
+    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/ShowReadme.py -q -P /JFM/Assets")
     print('DONE')
     
   if ans == '3':
@@ -126,6 +128,7 @@ what kind of install do you have?
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -q -P /root/JFM/Assets")
     print('[              <-> ]')
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -q -P /root/JFM/Assets")
+    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/ShowReadme.py -q -P /root/JFM/Assets")
     print('DONE')
   
   if ans == '4':
@@ -160,5 +163,6 @@ what kind of install do you have?
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -q -P ~/JFM/Assets")
     print('[              <-> ]')
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -q -P ~/JFM/Assets")
+    os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/ShowReadme.py -q -P ~/JFM/Assets")
     print('DONE')
    
