@@ -129,7 +129,7 @@ what kind of install do you have?
     print('DONE')
   
   if ans == '4':
-    os.system("rm -r ~/JFM/Assets/Add.py ~JFM/Assets/Check.py ~/JFM/Assets/Copy.py ~/JFM/Assets/Delete.py ~/JFM/Assets/DirList.py ~/JFM/Assets/Extra.py ~/JFM/Assets/Information.py ~/JFM/Assets/MakeDir.py ~/JFM/Assets/Move.py ~/JFM/Assets/OpenFile.py ~/JFM/Assets/OpenWeb.py ~/JFM/Assets/Read.py ~/JFM/Assets/RemoveDir.py ~/JFM/Assets/Write.py ~/JFM/Assets/Update.py")
+    os.system("rm -r ~/JFM/Assets/Add.py ~/JFM/Assets/Check.py ~/JFM/Assets/Copy.py ~/JFM/Assets/Delete.py ~/JFM/Assets/DirList.py ~/JFM/Assets/Extra.py ~/JFM/Assets/Information.py ~/JFM/Assets/MakeDir.py ~/JFM/Assets/Move.py ~/JFM/Assets/OpenFile.py ~/JFM/Assets/OpenWeb.py ~/JFM/Assets/Read.py ~/JFM/Assets/RemoveDir.py ~/JFM/Assets/Write.py ~/JFM/Assets/Update.py")
     print('[<->               ]')
     os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Add.py -q -P ~/JFM/Assets")
     print('[ <->              ]')
