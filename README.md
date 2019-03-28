@@ -27,7 +27,7 @@ if an update on github is made. It may take up to 5 minutes to the update to syn
 
 --> Latest Minor Update: NONE
 
---> Latest Beta Release: NONE
+--> Latest Beta Release: 4.5
 
 --> Next Milestone Release: 4.5
 
