@@ -1,3 +1,4 @@
+# installJuice.py
 import os
 
 ans = input('''
@@ -27,6 +28,7 @@ To?
 4. Home Folder (~/)
 
 #: ''')
+    # Downloads The Assets For JFM In The Dir (~/Downloads)
     if ans == '1':
         os.system("mkdir ~/Downloads/JFM")
         os.system("mkdir ~/Downloads/JFM/Assets")
@@ -46,7 +48,8 @@ To?
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P ~/Downloads/JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -P ~/Downloads/JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager4.0-1.py -O ~/Downloads/juicefilemanager4.0.py")
-        
+
+    # Downloads The Assets For JFM In The Dir (/)    
     if ans == '2':
         os.system("mkdir /JFM")
         os.system("mkdir /JFM/Assets")
@@ -66,7 +69,8 @@ To?
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P /JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -P /JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager4.0-2.py -O /juicefilemanager4.0.py")
-        
+
+    # Downloads The Assets For JFM In The Dir (/root)    
     if ans == '3':
         os.system("mkdir /root/JFM")
         os.system("mkdir /root/JFM/Assets")
@@ -86,7 +90,8 @@ To?
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Update.py -P /root/JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/assets/Write.py -P /root/JFM/Assets")
         os.system("wget https://raw.githubusercontent.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/master/juicefilemanager4.0-3.py -O /root/juicefilemanager4.0.py")
-        
+
+    # Downloads The Assets For JFM In The Dir (~/)    
     if ans == '4':
         os.system("mkdir ~/JFM")
         os.system("mkdir ~/JFM/Assets")

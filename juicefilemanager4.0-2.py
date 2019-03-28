@@ -3,48 +3,63 @@ import os
 import shutil
 import webbrowser
 
+# Imports the openweb asset to open websites
 def OpenWeb():
 	os.system("python3 ~/JFM/Assets/OpenWeb.py")
-	
+
+# Imports the update asset to update all the other assets
 def Update():
-	os.system("python3 /JFM/Assets/Update.py") 
-		  
+	os.system("python3 /JFM/Assets/Update.py")
+
+# Imports the read asset to read files
 def Read():
 	os.system("python3 /JFM/Assets/Read.py")
-	
-def Write():  
+
+# Imports the write asset to make a file .txt
+def Write():
 	os.system("python3 /JFM/Assets/Write.py")
-    
+
+# Imports the add asset which adds text to files
 def Add():
     os.system("python3 /JFM/Assets/Add.py")
-    
+
+# Imports the delete asset to delete files
 def Delete():
     os.system("python3 /JFM/Assets/Delete.py")
-    
+
+# Imports the Dirlist asset to list files in a directory
 def Dirlist():
     os.system("python3 /JFM/Assets/DirList.py")
-    
+
+# Imports the check asset to check of a files existence
 def Check():
     os.system("python3 /JFM/Assets/Check.py")
-    
+
+# Imports the move asset to move a file
 def Move():
     os.system("python3 /JFM/Assets/Move.py")
-    
+
+# Imports the copy asset to copy a file
 def Copy():
     os.system("python3 /JFM/Assets/Copy.py")
 
+# Imports the MakeDir asset to make a directory
 def Makedir():
     os.system("python3 /JFM/Assets/MakeDir.py")
-    
+
+# Imports the RemoveDir asset to remove a directory
 def Removedir():
     os.system("python3 ~/JFM/Assets/RemoveDir.py")
 
+# Imports the OpenFile assets to open a file
 def Openfile():
     os.system("python3 /JFM/Assets/OpenFile.py")
-    
+
+# Imports the Information asset to show Information about this jfm build
 def Information():
     os.system("python3 /JFM/Assets/Information.py")
 
+# Imports the extra asset to show some extras
 def Extra():
     os.system("python3 /JFM/Assets/Extra.py")
 
@@ -109,10 +124,10 @@ Other
         Update()
     if dec==16:
         OpenWeb()
-            
-            
-	
-    
+
+
+
+
     run=int(input("1.Run again \n2.Exit \n #: \n"))
     if run==2:
         exit()
