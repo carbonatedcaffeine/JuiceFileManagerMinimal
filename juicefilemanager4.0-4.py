@@ -63,7 +63,7 @@ def Information():
 def Extra():
     os.system("python3 ~/JFM/Assets/Extra.py")
 
-def ShowReadme():
+def Readme():
     os.system("pyhton3 ~/JFM/Assets/ShowReadme.py")
 
 run=1
@@ -119,7 +119,7 @@ Other
     if dec==12:
         exit()
     if dec==13:
-         Information()
+        Information()
     if dec==14:
         Extra()
     if dec==15:
@@ -127,7 +127,7 @@ Other
     if dec==16:
         OpenWeb()
     if dec==17:
-	ShowReadme()
+	Readme()
 
 
 
