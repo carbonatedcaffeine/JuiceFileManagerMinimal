@@ -64,7 +64,7 @@ def Extra():
     os.system("python3 ~/Downloads/JFM/Assets/Extra.py")
 
 def ShowReadme():
-	os.system("pyhton3 ~/Downloads/JFM/Assets/ShowReadme.py")
+    os.system("pyhton3 ~/Downloads/JFM/Assets/ShowReadme.py")
 
 run=1
 while(run==1):
