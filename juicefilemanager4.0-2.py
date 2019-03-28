@@ -127,6 +127,8 @@ Other
         Update()
     if dec==16:
         OpenWeb()
+    if dec==17:
+	ShowReadme()
 
 
 
