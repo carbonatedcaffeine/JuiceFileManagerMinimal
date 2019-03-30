@@ -1,7 +1,6 @@
 # JuciceFileManagerMinimal
 
-a file manager made from just python
-code and made for linux minimal 
+a file manager made from just python code and made for linux minimal and the dahlia operating system
 
 Now featured in dahliaOS: https://github.com/dahlia-os
 
