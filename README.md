@@ -3,6 +3,8 @@
 a file manager made from just python
 code and made for linux minimal 
 
+Now featured in dahliaOS: https://github.com/dahlia-os
+
 ### How To Install
 
 1. Download [installJuice.py](https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/blob/master/installJuice.py)
