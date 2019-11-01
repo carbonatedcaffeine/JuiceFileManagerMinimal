@@ -4,6 +4,12 @@ a file manager made from just python code and made for linux minimal and the dah
 
 Now featured in dahliaOS: https://github.com/dahlia-os
 
+
+## No more updates
+no more updates will be made to jfm. It's as good as I can get it.
+
+Thanks
+
 ### How To Install
 
 1. Download [installJuice.py](https://github.com/EnderNightLord-ChromeBook/JuiceFileManagerMinimal/blob/master/installJuice.py)
@@ -12,37 +18,12 @@ Now featured in dahliaOS: https://github.com/dahlia-os
 
 3. to launch juicefilemanager type `python3 juicefilemanager4.0.py` (in the dir you installed into)
 
-#### Updating Modules
-
-in juicefilemanager type `15` and go follow instructions... 
 
 ##### Notes On Updating!!! (Importent)
 
 if an update on github is made. It may take up to 5 minutes to the update to sync into github. So an update may not be installed instantly.
 
-### Update Information
-
---> Latest Version: 4.0
-
---> Latest Version Codename: Draco Dragonfruit
-
---> Latest Minor Update: NONE
-
---> Latest Beta Release: 4.5
-
---> Next Milestone Release: 4.5
-
---> Next Milestone Release Codename: Blooper Blueberry 
-
-### Update Notes: 4.0
-
---> Options Are Now Individual Files! Bettter For Updates.
-
---> installJuice.py Will Install JuiceFileManager!
-
---> juicefilemanager4.0-1, -2 and -3 are for branches... They are for different dirs... but are renamed in the installer.
-
---> Update Module Will Be Updated To Update Modules One By One To Make Things Easy (This Will Also Update Your Update File)
+dules One By One To Make Things Easy (This Will Also Update Your Update File)
 
 ### This program can be used for:
 
